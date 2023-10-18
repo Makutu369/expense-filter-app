@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+
+.app-div {
+  max-width: 900px;
+  margin: 15px auto;
+}
